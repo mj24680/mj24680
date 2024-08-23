@@ -30,8 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mj24680&show_icons=true&locale=en&layout=compact" alt="mj24680" /></p>
 
-<div style="clear: both;"></div> <!-- This will ensure the next section starts on a new line -->
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mj24680&show_icons=true&locale=en" alt="mj24680" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mj24680&" alt="mj24680" /></p>
