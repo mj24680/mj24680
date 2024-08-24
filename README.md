@@ -4,7 +4,7 @@
 
 <img align="right" alt="animated gif" width="400" src="https://gifdb.com/images/thumbnail/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mj24680&label=Profile%20views&color=0e75b6&style=flat" alt="mj24680" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mj24680&label=Profile%20views&color=0e75b6&style=flat" alt="mj24680"</p>
 
 - 🌱 I’m currently learning **Python, React Native & a lot more...**
 
