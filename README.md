@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Minutes of Meeting](https://github.com/mj24680/FYP-Minutes-of-Meeting-)
 
-- 👨‍💻 All of my projects are available at [https://mjawadportfolio2798130.on.drv.tw/www.myportfolio.com/](https://mjawadportfolio2798130.on.drv.tw/www.myportfolio.com/)
+- 👨‍💻 All of my projects are available at [https://rb.gy/cpnhpi](https://rb.gy/cpnhpi)
 
 - 📫 How to reach me **mjawad24680@gmail.com**
 
