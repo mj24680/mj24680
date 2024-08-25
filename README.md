@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Minutes of Meeting](https://github.com/mj24680/FYP-Minutes-of-Meeting-)
 
 - 👨‍💻 All of my projects are available at [https://mjawadportfolio2468000.on.drv.tw/www.myportfolio.com/](https://mjawadportfolio2468000.on.drv.tw/www.myportfolio.com/)
-- 
+
 - 📫 How to reach me **mjawad24680@gmail.com**
 
 - ⚡ Fun fact **People think I can't do anything🙄.The funny thing is that, they are absolutely right😂.**
